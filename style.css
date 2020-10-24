@@ -1,9 +1,23 @@
 body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
     background-color: cadetblue;
+    color: black;
+    border-top: 10px solid red;
 }
 h1 {
     color: ghostwhite   ;
 }
+h2 {
+    color: black;
+}
 p {
     color: black;
+}
+#blog {
+
+}
+
+.blog-post{
+
 }
