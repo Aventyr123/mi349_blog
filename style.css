@@ -29,3 +29,9 @@ table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-top: 1px solid black;
 }
+
+#contact {
+    border-top: 1px dotted black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
