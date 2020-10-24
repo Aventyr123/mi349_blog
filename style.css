@@ -32,6 +32,9 @@ table {
 
 #contact {
     border-top: 1px dotted black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
 }
+.img{
+    display:block;
+    margin-top:50px; 
+    margin-left:50px;   
+    }
