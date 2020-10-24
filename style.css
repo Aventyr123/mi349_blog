@@ -8,13 +8,16 @@ body {
     border-top: 10px solid black;
 }
 h1 {
-    color: ghostwhite   ;
+    color: ghostwhite;
+    font-size: medium;
 }
 h2 {
     color: black;
+    font-size: medium;
 }
 p {
     color: black;
+    font-size: small;
 }
 #blog {
     border-top: 2px dotted black;
