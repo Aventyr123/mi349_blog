@@ -1,5 +1,5 @@
 html {
-    background-color: cyan;
+    background-color: cadetblue;
 }
 body {
     font-family: 'Times New Roman', Times, serif;
@@ -22,4 +22,10 @@ p {
 
 .blog-post{
     border-bottom: 2px dotted black;
+}
+
+table {
+    color: darkorchid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top: 1px solid black;
 }
