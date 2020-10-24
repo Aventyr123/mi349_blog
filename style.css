@@ -1,9 +1,11 @@
+html {
+    background-color: cyan;
+}
 body {
     font-family: 'Times New Roman', Times, serif;
     margin: 50px;
-    background-color: cadetblue;
     color: black;
-    border-top: 10px solid red;
+    border-top: 10px solid black;
 }
 h1 {
     color: ghostwhite   ;
@@ -15,9 +17,9 @@ p {
     color: black;
 }
 #blog {
-
+    border-top: 2px dotted black;
 }
 
 .blog-post{
-
+    border-bottom: 2px dotted black;
 }
