@@ -43,4 +43,6 @@ table {
 .navi{
     background: gainsboro;
     position: sticky;
+    position: -webkit-sticky;
+    top: 0;
 }
