@@ -1,56 +1,67 @@
-html {
-    background-color: cadetblue;
-}
-body {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 50px;
-    color: black;
-    border-top: 10px solid black;
-}
-h1 {
-    color: ghostwhite;
-    font-size: medium;
-}
-h2 {
-    color: black;
-    font-size: medium;
-}
-p {
-    color: black;
-    font-size: small;
-}
-#blog {
-    border-top: 2px dotted black;
-}
+    html {
+        background-color: cadetblue;
+    }
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        margin: 50px;
+        color: black;
+        border-top: 10px solid black;
+    }
+    h1 {
+        color: ghostwhite;
+        font-size: medium;
+    }
+    h2 {
+        color: black;
+        font-size: medium;
+    }
+    p {
+        color: black;
+        font-size: small;
+    }
+    #blog {
+        border-top: 2px dotted black;
+    }
 
-.blog-post{
-    border-bottom: 2px dotted black;
-}
+    .blog-post{
+        border-bottom: 2px dotted black;
+    }
 
-table {
-    color: darkorchid;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-top: 1px solid black;
-}
+    table {
+        color: darkorchid;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-top: 1px solid black;
+    }
 
-#contact {
-    border-top: 1px dotted black;
-}
-.img{
-    margin-top:50px;
-    margin-left:50px;;
-}
-.navi{
-    background: gainsboro;
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0;
-}
-article{
-    background: #999;
-    padding: 20px;
-    margin: 20px;
-}
-article :nth-of-type(2){
-    flex: 5;
-}
+    #contact {
+        border-top: 1px dotted black;
+    }
+    .img{
+        margin-top:50px;
+        margin-left:50px;;
+    }
+    .navi{
+        background: gainsboro;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+    }
+    article{
+        background: #999;
+        padding: 20px;
+        margin: 20px;
+    }
+    article :nth-of-type(2){
+        flex: 5;
+    }
+    section{
+        display: flex;
+      }
+      article{
+          background: #999;
+          padding: 20px;
+          margin: 20px;
+      }
+      article :nth-of-type(2){
+          flex: 1;
+      }
