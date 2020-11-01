@@ -58,10 +58,14 @@
         display: flex;
       }
       article{
-          background: #999;
+          background: cadetblue;
           padding: 20px;
           margin: 20px;
       }
       article :nth-of-type(2){
           flex: 1;
+      }
+      .img-container {
+          float: right;
+          margin-right: 10px;
       }
