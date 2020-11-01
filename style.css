@@ -46,3 +46,11 @@ table {
     position: -webkit-sticky;
     top: 0;
 }
+article{
+    background: #999;
+    padding: 20px;
+    margin: 20px;
+}
+article :nth-of-type(2){
+    flex: 5;
+}
