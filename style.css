@@ -36,10 +36,6 @@
     #contact {
         border-top: 1px dotted black;
     }
-    .img{
-        margin-top:50px;
-        margin-left:50px;;
-    }
     .navi{
         background: gainsboro;
         position: sticky;
@@ -66,8 +62,8 @@
           flex: 1;
       }
       .img-container {
-          height: 50px;
-          width: 50px;
+          height: 30px;
+          width: 30px;
           float: right;
           margin-right: 10px;
       }
