@@ -62,8 +62,6 @@
           flex: 1;
       }
       .img-container {
-          height: 1px;
-          width: 1px;
           float: right;
-          margin-right: 10px;
+          margin-right: 5px;
       }
