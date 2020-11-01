@@ -59,7 +59,7 @@
           margin: 20px;
       }
       article :nth-of-type(2){
-          flex: 20;
+          flex: 10;
       }
       .img-container {
           float: right;
