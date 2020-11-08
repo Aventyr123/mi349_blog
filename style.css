@@ -53,15 +53,23 @@
     section{
         display: flex;
       }
-      article{
-          background: cadetblue;
-          padding: 20px;
-          margin: 20px;
-      }
-      article :nth-of-type(2){
-          flex: 10;
-      }
-      .img-container {
-          float: right;
-          margin-right: 20px;
-      }
+    article{
+        background: cadetblue;
+        padding: 20px;
+        margin: 20px;
+    }
+    article :nth-of-type(2){
+        flex: 10;
+    }
+    .img-container {
+        float: right;
+        margin-right: 20px;
+    }
+    @media (max-width: 40px){
+        .sticky{
+            background: #fd0101;
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0;
+    }
+}
