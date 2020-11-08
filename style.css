@@ -36,7 +36,12 @@
     #contact {
         border-top: 1px dotted black;
     }
-
+    .navi{
+        background: gainsboro;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+    }
     article{
         background: #999;
         padding: 20px;
